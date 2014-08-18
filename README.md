@@ -20,9 +20,3 @@
 ### Windows-spesifikt
 
 - [Velocity](http://velocity.silverlakesoftware.com)
-
-
-
-#### Todo
-
-- /snacks/bin
