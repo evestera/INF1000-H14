@@ -1,5 +1,5 @@
-if [ -f ~/.bashrc ]; then
-	source ~/.bashrc
+if [ -f /local/lib/setupfiles/bashrc ]; then
+	source /local/lib/setupfiles/bashrc
 fi
 
 # På ifi-maskiner ligger mye nyttig i /snacks/bin
