@@ -19,6 +19,6 @@ function prompt_command {
 	local POST="\033[m "
 	export PS1="$PRE[\u.\h \w]$POST"
 }
-PROMPT_COMMAND=prompt_command
+export PROMPT_COMMAND=prompt_command
 
 export EDITOR=vim
