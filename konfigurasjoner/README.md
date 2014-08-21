@@ -12,3 +12,7 @@ Advarsel! Disse kommandoene overskriver eventuelle konfigurasjonsfiler du har de
 
 #### .vimrc
     wget -O ~/.vimrc https://github.com/evestera/INF1000-H14/raw/master/konfigurasjoner/.vimrc
+
+#### .emacs
+    wget -O ~/.emacs https://github.com/evestera/INF1000-H14/raw/master/konfigurasjoner/.emacs
+

@@ -1,3 +1,5 @@
+# Disse tre linjene er nødvendig på ifi-maskiner
+# Hvis du bruker denne filen på din egen maskin kan du fjerne dem
 if [ -f /local/lib/setupfiles/bashrc ]; then
 	source /local/lib/setupfiles/bashrc
 fi
@@ -21,4 +23,5 @@ function prompt_command {
 }
 export PROMPT_COMMAND=prompt_command
 
+# Endre til emacs om du foretrekker det
 export EDITOR=vim

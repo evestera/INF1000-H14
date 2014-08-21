@@ -11,6 +11,11 @@ filetype plugin indent on
 set backspace=2
 set whichwrap+=<,>,h,l,[,]
 
+set showcmd
+
+set incsearch
+set hlsearch
+
 set laststatus=2
 
 set statusline=\             "initial spacing
