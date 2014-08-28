@@ -7,6 +7,9 @@ fi
 # På ifi-maskiner ligger mye nyttig i /snacks/bin
 export PATH=/snacks/bin:$PATH
 
+# Blant annet en nyere versjon av emacs
+alias emacs=emacs-newest
+
 # Hvis du vil legge til programmer selv kan du med denne linjen legge dem i
 # en mappe du kaller bin i hjemmeområdet ditt
 export PATH=~/bin:$PATH
