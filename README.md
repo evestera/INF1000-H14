@@ -2,6 +2,7 @@
 
 ## Linker
 
+- [Facebook-gruppa](https://www.facebook.com/groups/760538870659550/)
 - [Sublime Text](http://www.sublimetext.com)
 - [Github](https://github.com)
 - [Bitbucket](https://bitbucket.org)
