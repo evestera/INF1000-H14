@@ -26,5 +26,8 @@ function prompt_command {
 }
 export PROMPT_COMMAND=prompt_command
 
+# Ikke lagre kommandolinjer mer enn en gang
+export HISTCONTROL=ignoreboth:erasedups
+
 # Endre til emacs om du foretrekker det
 export EDITOR=vim
