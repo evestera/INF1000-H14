@@ -11,6 +11,12 @@
 - [IntelliJ IDEA](http://www.jetbrains.com/idea/)
 - [Prezto/zsh](https://github.com/sorin-ionescu/prezto)
 
+### Forkurs
+
+- [Linux-oppgaver](http://programmering.wiki.ifi.uio.no/Linux-oppgaver) (Intro til terminal og lignende)
+- [Emacs-oppgaver](http://programmering.wiki.ifi.uio.no/Emacs-introduksjon) (Hopp over hvis du ikke vil bruke emacs. Hvis du vil bruke emacs, se på konfigurasjoner-mappa)
+- [Java-oppgaver](http://programmering.wiki.ifi.uio.no/Java-oppgaver)
+
 ### Mac-spesifikt
 
 - [Homebrew](http://brew.sh)
