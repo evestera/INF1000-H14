@@ -1,0 +1,3 @@
+Dette er en liten testfil.
+Den har litt tekst.
+Ca tre linjer.
